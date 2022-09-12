@@ -22,5 +22,4 @@ func initConfig() {
 
 func main() {
 	initConfig()
-
 }
